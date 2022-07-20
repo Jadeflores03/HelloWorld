@@ -1,2 +1,3 @@
 var msg = "Hello World";
-console.log(msg);
+var msg1 = "Jade Flores";
+console.log(msg,msg1);
